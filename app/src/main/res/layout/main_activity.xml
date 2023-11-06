@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:orientation="vertical">
 
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+      <com.google.android.material.appbar.MaterialToolbar
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:id="@+id/MaterialToolBar"
+          >
+      </com.google.android.material.appbar.MaterialToolbar>
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/materialCardView"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_below="@id/MaterialToolBar"
+            android:layout_margin="@dimen/margin_normal">
+
+        </com.google.android.material.card.MaterialCardView>
+
+    </RelativeLayout>
 </LinearLayout>
