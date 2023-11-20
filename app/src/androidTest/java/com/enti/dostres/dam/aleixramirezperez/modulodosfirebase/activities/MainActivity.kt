@@ -1,8 +1,7 @@
-package com.enti.dostres.dam.aleixramirezperez.modulodosfirebase
-import android.app.Activity
+package com.enti.dostres.dam.aleixramirezperez.modulodosfirebase.activities
 import android.os.Bundle
-import android.os.PersistableBundle
 import androidx.appcompat.app.AppCompatActivity
+import com.enti.dostres.dam.aleixramirezperez.modulodosfirebase.R
 
 class MainActivity : AppCompatActivity() {
 

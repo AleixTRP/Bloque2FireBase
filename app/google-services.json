@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069933901560",
+    "project_id": "modulodosfirebase-d6260",
+    "storage_bucket": "modulodosfirebase-d6260.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069933901560:android:43c24f6237b5e447ef6d0d",
+        "android_client_info": {
+          "package_name": "com.enti.dostres.dam.aleixramirezperez.modulodosfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1NR0NZPBQ4-T025Oy6CpzkAbCP811f7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
